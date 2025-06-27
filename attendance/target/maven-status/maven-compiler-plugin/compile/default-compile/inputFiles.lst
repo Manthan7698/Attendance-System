@@ -1,0 +1,10 @@
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/AttendanceApplication.java
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/controller/AttendanceController.java
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/controller/HelloController.java
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/controller/StudentController.java
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/model/Attendance.java
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/model/Student.java
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/repository/AttendanceRepository.java
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/repository/StudentRepository.java
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/service/AttendanceService.java
+/home/manthan-kukadiya/Downloads/attendance/src/main/java/com/example/attendance/service/StudentService.java
